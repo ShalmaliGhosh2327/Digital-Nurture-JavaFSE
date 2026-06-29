@@ -1,8 +1,5 @@
 public class Search {
 
-
-    // Linear Search
-
     public static Product linearSearch(Product[] products, String name) {
 
 
@@ -22,10 +19,6 @@ public class Search {
 
     }
 
-
-
-
-    // Binary Search
 
     public static Product binarySearch(Product[] products, String name) {
 
