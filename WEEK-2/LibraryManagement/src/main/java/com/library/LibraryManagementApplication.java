@@ -18,5 +18,7 @@ public class LibraryManagementApplication {
         service.displayService();
 
         ((ClassPathXmlApplicationContext) context).close();
+
     }
+
 }
